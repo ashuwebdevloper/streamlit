@@ -31,4 +31,4 @@ if st.button("Recommend"):
     st.write("Recommended Movies:")
 
     for i in r:
-        st.write(i
+        st.write(i)
